@@ -1,0 +1,103 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>{{ exe }}</h1>
+<hr>
+<h3>Summary</h3>
+<p>{{ svc['description'] }}</p>
+<h3>Intel</h3>
+<p>{{ svc['intel'] }}</p>
+<hr>
+<h3>Rank Analysis</h3>
+<h4>Rank: {{ svc['rank'] }}th</h4>
+<h4>Host Prevalence: {{ svc['host_prev'] }}%</h4>
+<h4>Prevalence Score: {{ svc['eps'] }}</h4>
+<hr>
+<h3>Behavioral Analysis</h3>
+<h4>Top Hashes</h4>
+<table>
+    <thead>
+        <tr>
+            <th>Hash</th>
+            <th>Percentage Seen</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for hash in svc['hashes'] %}
+        <tr>
+            <td>{{ hash[0] }}</td>
+            <td>{{ hash[1] }}%</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+<h4>Top Paths</h4>
+<table>
+    <thead>
+        <tr>
+            <th>Path</th>
+            <th>Percentage Seen</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for path in svc['paths'] %}
+        <tr>
+            <td>{{ path[0] }}</td>
+            <td>{{ path[1] }}%</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+<hr>
+<h3>Ancestry Analysis</h3>
+<h4>Top Gradparents</h4>
+<table>
+    <thead>
+        <tr>
+            <th>Grandparent</th>
+            <th>Percentage Seen</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for gp in svc['grandparents'] %}
+        <tr>
+            <td>{{ gp[0] }}</td>
+            <td>{{ gp[1] }}%</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+<h4>Top Parents</h4>
+<table>
+    <thead>
+        <tr>
+            <th>Parent</th>
+            <th>Percentage Seen</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for p in svc['parents'] %}
+        <tr>
+            <td>{{ p[0] }}</td>
+            <td>{{ p[1] }}%</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+<h4>Top Children</h4>
+<table>
+    <thead>
+        <tr>
+            <th>Children</th>
+            <th>Percentage Seen</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for c in svc['children'] %}
+        <tr>
+            <td>{{ c[0] }}</td>
+            <td>{{ c[1] }}%</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+{% endblock %}

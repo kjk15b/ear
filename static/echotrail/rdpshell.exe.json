@@ -1,0 +1,54 @@
+{
+   "paths": [
+      [
+         "C:\\Windows\\System32",
+         "100.00"
+      ]
+   ],
+   "parents": [
+      [
+         "rdpinit.exe",
+         "100.00"
+      ]
+   ],
+   "children": [
+      [
+         "runonce.exe",
+         "100.00"
+      ]
+   ],
+   "grandparents": [
+      [
+         "userinit.exe",
+         "100.00"
+      ]
+   ],
+   "hashes": [
+      [
+         "8791c2d6e37eb517ea4fcc9a719fdaabf77d7ff6d83a8716212559ee7d589d3f",
+         "31.79"
+      ],
+      [
+         "c0a6e121058ad668b6816e2e9233a5cce92f9845d6d434632fb099dc3ea9eef2",
+         "29.80"
+      ],
+      [
+         "a7be3ab1c18464c8a013367412fedb5e3cbb6bb8ec3bd3c19dd2615c28515fe7",
+         "23.84"
+      ],
+      [
+         "42ed9d29f75ddd06dcc5a3a083fe0fb01bc3c092d05096f13b18f35e6d099d72",
+         "8.61"
+      ],
+      [
+         "606ecd34a4a5c56ce81dffdf315e9050c4b470829f3ea8110a3a15fea0ce997e",
+         "5.96"
+      ]
+   ],
+   "network": [],
+   "rank": 1641,
+   "host_prev": "0.6",
+   "eps": "29.20",
+   "description": "rdpshell.exe is the 1,641st most commonly executed Windows program. It typically runs from the path C:\\Windows\\System32, and is most often launched by rdpinit.exe. It has been observed executing on 0.6% of computers in the wild.",
+   "intel": ""
+}

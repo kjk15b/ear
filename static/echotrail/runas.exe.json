@@ -1,0 +1,74 @@
+{
+   "paths": [
+      [
+         "C:\\Windows\\System32",
+         "95.65"
+      ],
+      [
+         "C:\\Windows\\SysWOW64",
+         "4.35"
+      ]
+   ],
+   "parents": [
+      [
+         "cmd.exe",
+         "95.65"
+      ],
+      [
+         "radstudio10_2_3_esd_2631.tmp",
+         "4.35"
+      ]
+   ],
+   "children": [
+      [
+         "cmd.exe",
+         "83.33"
+      ],
+      [
+         "conhost.exe",
+         "8.33"
+      ],
+      [
+         "bds.exe",
+         "8.33"
+      ]
+   ],
+   "grandparents": [
+      [
+         "explorer.exe",
+         "95.65"
+      ],
+      [
+         "radstudio10_2_3_esd_2631.exe",
+         "4.35"
+      ]
+   ],
+   "hashes": [
+      [
+         "2bf3d3223f587881b8d34c6d8945c9318de632934cd29fadd3296e22debd8545",
+         "38.46"
+      ],
+      [
+         "9322fc030e4e63e9b9fde9f6fa30f90a04dc52b65c9be5cfaf7d26cd26cdc517",
+         "30.77"
+      ],
+      [
+         "5f980c80568910bed49f697ae9ccbe350136e42be18994a1eb672a983baa9431",
+         "15.38"
+      ],
+      [
+         "ffaa3419ef66fbc0649c958fac3e3ffaca229aa70c61d310968a0f5ca4da522b",
+         "7.69"
+      ],
+      [
+         "d7373a7f576f4bcfa36c31455e54ff20826930b9f824a98544775482b6707b2c",
+         "7.69"
+      ]
+   ],
+   "network": [],
+   "rank": 3832,
+   "host_prev": "2.6",
+   "eps": "28.97",
+   "description": "runas.exe is the 3,832nd most commonly executed Windows program. It typically runs from the path C:\\Windows\\System32, and is most often launched by cmd.exe. It has been observed executing on 2.6% of computers in the wild.",
+   "intel": ""
+}

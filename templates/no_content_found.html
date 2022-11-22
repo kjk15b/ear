@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>No Search Results Found</h1>
+<body>
+    <h3>No results could be found.</h3>
+    <p>Your search for: {{ query }} yielded no results.</p>
+    <form action="/api/insights/query" method="post">
+        <input type="text" name="query" id="query" placeholder="cmd.exe">
+        <input type="submit" value="Search">
+    </form>
+</body>
+{% endblock %}

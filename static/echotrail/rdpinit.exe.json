@@ -1,0 +1,111 @@
+{
+   "paths": [
+      [
+         "C:\\Windows\\System32",
+         "100.00"
+      ]
+   ],
+   "parents": [
+      [
+         "userinit.exe",
+         "100.00"
+      ]
+   ],
+   "children": [
+      [
+         "rdpshell.exe",
+         "55.72"
+      ],
+      [
+         "ShoreTel.exe",
+         "20.48"
+      ],
+      [
+         "chrome.exe",
+         "9.59"
+      ],
+      [
+         "ConnectWise.exe",
+         "6.83"
+      ],
+      [
+         "VISIO.EXE",
+         "1.29"
+      ],
+      [
+         "win32calc.exe",
+         "1.11"
+      ],
+      [
+         "lync.exe",
+         "1.11"
+      ],
+      [
+         "bomgar-rep.exe",
+         "0.92"
+      ],
+      [
+         "WINWORD.EXE",
+         "0.55"
+      ],
+      [
+         "OUTLOOK.EXE",
+         "0.55"
+      ],
+      [
+         "ONENOTE.EXE",
+         "0.55"
+      ],
+      [
+         "LTClient.exe",
+         "0.55"
+      ],
+      [
+         "mstsc.exe",
+         "0.37"
+      ],
+      [
+         "GROOVE.EXE",
+         "0.37"
+      ]
+   ],
+   "grandparents": [
+      [
+         "winlogon.exe",
+         "100.00"
+      ]
+   ],
+   "hashes": [
+      [
+         "b04bfc32973c033462a3387cce4b5ede51afe5f50fa36900f097fd369a2470ee",
+         "31.79"
+      ],
+      [
+         "311008a5dd8b7f867d0da9ee8e388d1233f228fb366fb252bb311f9201c1e8d1",
+         "29.80"
+      ],
+      [
+         "0396e8157cff4b80ad5a898f469b3f0f7d6af300181315e6685d0a8d649906bb",
+         "23.84"
+      ],
+      [
+         "d36892f15ea38b8c421c9178d938f077ddc79a9bd23aa8fc76a4d3ed81c1ea82",
+         "8.61"
+      ],
+      [
+         "68c36ad56ff81930e3cc921f1c7a078725113a4167446b15c55e5e7513d0906e",
+         "5.96"
+      ]
+   ],
+   "network": [
+      [
+         "443",
+         "100.00"
+      ]
+   ],
+   "rank": 2173,
+   "host_prev": "0.6",
+   "eps": "28.81",
+   "description": "rdpinit.exe is the 2,173rd most commonly executed Windows program. It typically runs from the path C:\\Windows\\System32, and is most often launched by userinit.exe. It has been observed executing on 0.6% of computers in the wild.",
+   "intel": ""
+}

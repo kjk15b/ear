@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>Executable Analysis Repository (EAR)</h1>
+<body>
+    <h3>Search for a hash or executable below!</h3>
+    <p>The API can be accessible through GET /api/insights/search/</p>
+    <h3>There are currently {{ num_exes }} aggregated executables with data.</h3>
+    <form action="/api/insights/query" method="post">
+        <input type="text" name="query" id="query" placeholder="cmd.exe">
+        <input type="submit" value="Search">
+    </form>
+</body>
+{% endblock %}

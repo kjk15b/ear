@@ -1,0 +1,42 @@
+{
+   "paths": [
+      [
+         "C:\\Windows\\System32",
+         "100.00"
+      ]
+   ],
+   "parents": [
+      [
+         "wsmprovhost.exe",
+         "100.00"
+      ]
+   ],
+   "children": [
+      [
+         "quser.exe",
+         "50.00"
+      ],
+      [
+         "conhost.exe",
+         "50.00"
+      ]
+   ],
+   "grandparents": [
+      [
+         "svchost.exe",
+         "100.00"
+      ]
+   ],
+   "hashes": [
+      [
+         "0141b31c3583fc37d82b2506d0806e2060d34b89cd507a329a69162f435a8ce0",
+         "100.00"
+      ]
+   ],
+   "network": [],
+   "rank": 3554,
+   "host_prev": "0.6",
+   "eps": "27.78",
+   "description": "query.exe is the 3,554th most commonly executed Windows program. It typically runs from the path C:\\Windows\\System32, and is most often launched by wsmprovhost.exe. It has been observed executing on 0.6% of computers in the wild.",
+   "intel": ""
+}

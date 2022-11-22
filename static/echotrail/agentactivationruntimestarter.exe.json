@@ -1,0 +1,40 @@
+{
+   "paths": [
+      [
+         "C:\\Windows\\System32",
+         "100.00"
+      ]
+   ],
+   "parents": [
+      [
+         "svchost.exe",
+         "100.00"
+      ]
+   ],
+   "children": [],
+   "grandparents": [],
+   "hashes": [
+      [
+         "975d2ab9067a1b21a46ce9d87e6ab589636d128fcba4f49e53392815ebc72d77",
+         "48.66"
+      ],
+      [
+         "bf515aa1bb9865424fa665d4e781980135cb44422a84e8c63ed18b000e7541b8",
+         "36.91"
+      ],
+      [
+         "62ba3eeb6fd73998f4b478a15da4a41bbfc3696a55233627595f95473aae7a6d",
+         "12.37"
+      ],
+      [
+         "2dec99ff2b41267889420a94d39ab9cdcf5e8a341f89523f40cb65fa74f8c431",
+         "2.06"
+      ]
+   ],
+   "network": [],
+   "rank": 1376,
+   "host_prev": 5.6,
+   "eps": "32.90",
+   "description": "agentactivationruntimestarter.exe is the 1,376th most commonly executed Windows program. It typically runs from the path C:\\Windows\\System32, and is most often launched by svchost.exe.",
+   "intel": ""
+}

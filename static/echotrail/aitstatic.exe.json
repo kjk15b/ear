@@ -1,0 +1,50 @@
+{
+   "paths": [
+      [
+         "C:\\Windows\\System32",
+         "100.00"
+      ]
+   ],
+   "parents": [
+      [
+         "CompatTelRunner.exe",
+         "100.00"
+      ]
+   ],
+   "children": [
+      [
+         "conhost.exe",
+         "100.00"
+      ]
+   ],
+   "grandparents": [
+      [
+         "CompatTelRunner.exe",
+         "100.00"
+      ]
+   ],
+   "hashes": [
+      [
+         "e0b32353d9ad2e3e6e60defa6092d0123d86f3faa9096b7b8773ba89791fc8e7",
+         "41.18"
+      ],
+      [
+         "7a1da35694fd6bc9a2e26dc1e36444beabca41331378742c2d227debad6393dc",
+         "29.41"
+      ],
+      [
+         "7c7ba7d6c4077c46b99c0c643665d44aad14f22ce57ecc1b87db8460b895035f",
+         "17.65"
+      ],
+      [
+         "d7a9638ce8efa79eab48194a61dcb91909e3c6b297dca9bba779ad2b1c6e41be",
+         "11.76"
+      ]
+   ],
+   "network": [],
+   "rank": 4343,
+   "host_prev": "0.9",
+   "eps": "27.40",
+   "description": "aitstatic.exe is the 4,343rd most commonly executed Windows program. It typically runs from the path C:\\Windows\\System32, and is most often launched by CompatTelRunner.exe. It has been observed executing on 0.9% of computers in the wild.",
+   "intel": ""
+}

@@ -1,0 +1,94 @@
+{
+   "paths": [
+      [
+         "C:\\Windows\\System32",
+         "100.00"
+      ]
+   ],
+   "parents": [
+      [
+         "HxAccounts.exe",
+         "63.70"
+      ],
+      [
+         "SearchUI.exe",
+         "32.53"
+      ],
+      [
+         "AccountsControlHost.exe",
+         "1.71"
+      ],
+      [
+         "Sticky Notes W10 Universal.exe",
+         "0.68"
+      ],
+      [
+         "ClearChannel.View.exe",
+         "0.68"
+      ],
+      [
+         "PSExpress.exe",
+         "0.34"
+      ],
+      [
+         "HP.Smart.exe",
+         "0.34"
+      ]
+   ],
+   "children": [],
+   "grandparents": [
+      [
+         "svchost.exe",
+         "100.00"
+      ]
+   ],
+   "hashes": [
+      [
+         "bb2930598067ccf0a4a0d30da17ae5bbb44639b300a9aa334c4e0857437883b1",
+         "27.92"
+      ],
+      [
+         "90eef4a99736e9ec17d8e54918a435b04f132dae116fc90c53ff1a1260929886",
+         "23.32"
+      ],
+      [
+         "8a1060a0d9054ad2f428cb56dba525394ff01d45dd6ed2aec7de201d7dbf9cff",
+         "19.79"
+      ],
+      [
+         "ea48b4f5787d0941991b17a9a2075cd89f8217cd00260c5283e2a2bf97efac64",
+         "14.49"
+      ],
+      [
+         "7b24c56bd854742a55ccb2210846b71a48ee821b1dfa1ef70918b63da0005a1a",
+         "7.77"
+      ],
+      [
+         "78d7c33adc73827d0c60df89c13d7973a885db106f39b4c641aa850469643834",
+         "4.59"
+      ],
+      [
+         "2c5bc827e896b00cbe73e7b96e2e2b274a60e8232007525a03b013d242906937",
+         "1.41"
+      ],
+      [
+         "6778d42a25b4ab28fa157d9b9eb63dc826c8a6faac650ecb5e33b13954f88db1",
+         "0.71"
+      ]
+   ],
+   "network": [
+      [
+         "443",
+         "93.54"
+      ],
+      [
+         "80",
+         "6.46"
+      ]
+   ],
+   "rank": 1687,
+   "host_prev": "6.5",
+   "eps": "33.30",
+   "description": "Microsoft AuthHost",
+   "intel": ""
+}
