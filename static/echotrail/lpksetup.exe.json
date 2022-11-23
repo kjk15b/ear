@@ -1,0 +1,102 @@
+{
+   "paths": [
+      [
+         "C:\\Windows\\System32",
+         "100.00"
+      ]
+   ],
+   "parents": [
+      [
+         "svchost.exe",
+         "58.97"
+      ],
+      [
+         "lpksetup.exe",
+         "34.60"
+      ],
+      [
+         "taskeng.exe",
+         "5.16"
+      ],
+      [
+         "lpremove.exe",
+         "1.03"
+      ],
+      [
+         "swi_filter.exe",
+         "0.04"
+      ],
+      [
+         "esif_uf.exe",
+         "0.04"
+      ],
+      [
+         "conhost.exe",
+         "0.04"
+      ]
+   ],
+   "children": [
+      [
+         "lpksetup.exe",
+         "98.53"
+      ],
+      [
+         "SrTasks.exe",
+         "1.47"
+      ]
+   ],
+   "grandparents": [
+      [
+         "services.exe",
+         "58.09"
+      ],
+      [
+         "svchost.exe",
+         "41.91"
+      ]
+   ],
+   "hashes": [
+      [
+         "467e72ed68d4b33f36d32a1803024c347e0063adcea51c22cbc7f6d0f4636c3c",
+         "44.88"
+      ],
+      [
+         "edccb2f297de76763c0298829a5c5726942c0c4d7df4265639c1728b5028c79f",
+         "16.73"
+      ],
+      [
+         "71613ea48467d1a0b00f8bcaed270b7527fc5771f540a8eb0515b3a5fdc8604f",
+         "15.63"
+      ],
+      [
+         "e7bbf02d4e01b398d6554bec8f506e8c8207f1d46fa3203176455ff9c67918c9",
+         "7.05"
+      ],
+      [
+         "4ca6e16beb57278e60e3edcbcecda1442aa344c424421e4b078f1213e6b99376",
+         "5.47"
+      ],
+      [
+         "0fefbd2235c5eb2babcedecaa3f798cf632a580aa4d73d023d3d24d8365da562",
+         "3.85"
+      ],
+      [
+         "cb3cbeaaff7c07b044f70177e2899a87e80840d177238eb7dd25b8d9e20bef22",
+         "3.60"
+      ],
+      [
+         "c8b2f1ef4100d7e93cd6ce1766b502b347a86288f91368f4891bb8be8e338ad2",
+         "2.67"
+      ],
+      [
+         "d44611189d3f2da01952291f40f7cf361e808b68716a4739b95dcdd632a26e5d",
+         "0.12"
+      ]
+   ],
+   "network": [],
+   "rank": 719,
+   "host_prev": "9.7",
+   "eps": "36.26",
+   "description": "Language Pack Installer",
+   "intel": ""
+}

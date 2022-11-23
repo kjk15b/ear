@@ -1,0 +1,207 @@
+{
+   "paths": [
+      [
+         "C:\\Program Files\\WindowsApps\\Microsoft.WindowsCalculator_10.1804.911.0_x64__8wekyb3d8bbwe",
+         "11.66"
+      ],
+      [
+         "C:\\Program Files\\WindowsApps\\Microsoft.WindowsCalculator_10.1709.2703.0_x64__8wekyb3d8bbwe",
+         "9.16"
+      ],
+      [
+         "C:\\Program Files\\WindowsApps\\Microsoft.WindowsCalculator_10.1803.711.1000_x64__8wekyb3d8bbwe",
+         "7.89"
+      ],
+      [
+         "C:\\Program Files\\WindowsApps\\Microsoft.WindowsCalculator_10.1702.312.0_x64__8wekyb3d8bbwe",
+         "7.74"
+      ],
+      [
+         "C:\\Program Files\\WindowsApps\\Microsoft.WindowsCalculator_10.2103.8.0_x64__8wekyb3d8bbwe",
+         "6.08"
+      ],
+      [
+         "C:\\Program Files\\WindowsApps\\Microsoft.WindowsCalculator_10.1802.311.0_x64__8wekyb3d8bbwe",
+         "6.06"
+      ],
+      [
+         "C:\\Program Files\\WindowsApps\\Microsoft.WindowsCalculator_10.1910.0.0_x64__8wekyb3d8bbwe",
+         "4.67"
+      ],
+      [
+         "C:\\Program Files\\WindowsApps\\Microsoft.WindowsCalculator_10.1804.2492.0_x64__8wekyb3d8bbwe",
+         "4.55"
+      ],
+      [
+         "C:\\Program Files\\WindowsApps\\Microsoft.WindowsCalculator_10.1811.3241.0_x64__8wekyb3d8bbwe",
+         "4.14"
+      ],
+      [
+         "C:\\Program Files\\WindowsApps\\Microsoft.WindowsCalculator_10.1803.711.0_x64__8wekyb3d8bbwe",
+         "4.09"
+      ],
+      [
+         "C:\\Program Files\\WindowsApps\\Microsoft.WindowsCalculator_10.1805.1201.0_x64__8wekyb3d8bbwe",
+         "2.85"
+      ],
+      [
+         "C:\\Program Files\\WindowsApps\\Microsoft.WindowsCalculator_10.1709.2703.1000_x64__8wekyb3d8bbwe",
+         "2.63"
+      ],
+      [
+         "C:\\Program Files\\WindowsApps\\Microsoft.WindowsCalculator_10.1712.3351.0_x64__8wekyb3d8bbwe",
+         "2.40"
+      ],
+      [
+         "C:\\Program Files\\WindowsApps\\Microsoft.WindowsCalculator_10.1812.10048.0_x64__8wekyb3d8bbwe",
+         "2.14"
+      ],
+      [
+         "C:\\Program Files\\WindowsApps\\Microsoft.WindowsCalculator_10.1809.2731.0_x64__8wekyb3d8bbwe",
+         "1.99"
+      ],
+      [
+         "C:\\Program Files\\WindowsApps\\Microsoft.WindowsCalculator_10.1908.0.0_x64__8wekyb3d8bbwe",
+         "1.66"
+      ],
+      [
+         "C:\\Program Files\\WindowsApps\\Microsoft.WindowsCalculator_10.2005.23.0_x64__8wekyb3d8bbwe",
+         "1.61"
+      ],
+      [
+         "C:\\Program Files\\WindowsApps\\Microsoft.WindowsCalculator_10.2007.1.0_x64__8wekyb3d8bbwe",
+         "1.48"
+      ],
+      [
+         "C:\\Program Files\\WindowsApps\\Microsoft.WindowsCalculator_10.1906.53.0_x64__8wekyb3d8bbwe",
+         "1.26"
+      ],
+      [
+         "C:\\Program Files\\WindowsApps\\Microsoft.WindowsCalculator_10.2101.10.0_x64__8wekyb3d8bbwe",
+         "1.10"
+      ],
+      [
+         "C:\\Program Files\\WindowsApps\\Microsoft.WindowsCalculator_10.1902.42.0_x64__8wekyb3d8bbwe",
+         "1.10"
+      ]
+   ],
+   "parents": [
+      [
+         "svchost.exe",
+         "99.99"
+      ]
+   ],
+   "children": [
+      [
+         "WerFault.exe",
+         "100.00"
+      ]
+   ],
+   "grandparents": [
+      [
+         "services.exe",
+         "100.00"
+      ]
+   ],
+   "hashes": [
+      [
+         "f9e8efeeb8c96d6bfc30b3411b6746e333a5601bb28ba58391c76dfb23a33fa1",
+         "12.45"
+      ],
+      [
+         "7dc313ee35438de821924a0adb03506eba35579d68a7341dd7ec28cb4646f68b",
+         "12.41"
+      ],
+      [
+         "4cb619263771f55db4dca3b2b6e1715611ddd95ffef9e964242e1d67b776e9a3",
+         "12.07"
+      ],
+      [
+         "d73b5ade40306b428c722c4f4248a7d2784f20950bab759238f75134aef23a43",
+         "8.07"
+      ],
+      [
+         "1be51b1664853acca05b402fbb441456d0a6fa57d70baed476434cf8f686e15f",
+         "6.34"
+      ],
+      [
+         "c80d3cfbb513c7a83b1c3452feb60ddf869bfb938678b8c8f2fac28154228f80",
+         "6.26"
+      ],
+      [
+         "a29b233954babdb6de3fd512e22d0e152d188bcbf74f3b1f3ac9de450007b769",
+         "4.87"
+      ],
+      [
+         "7744dc08cbae3173ed63be31f06716f5fd6e7f94a2362103e65837e8751efd8a",
+         "4.67"
+      ],
+      [
+         "b7c65b77488b89a545df6406e16a8f4e6f81f529e2e92916ea01d61f5e2576bd",
+         "4.21"
+      ],
+      [
+         "647966643f15f63c4f0e83424537cebf2cfd96bccb7aa1a18fd57fb722278f00",
+         "2.96"
+      ],
+      [
+         "5141d8a79a348c6b7b486ad79bb6d24afea009b0a5ee82dfe0e4b7cb0412f155",
+         "2.06"
+      ],
+      [
+         "43086018655fc45fbd3824098d07911737a3e4b2d5e0f486f1021915591e374d",
+         "2.01"
+      ],
+      [
+         "cfa89b96566118b9472cd8d39fd6cd40de75bbb1cf80fd30c66c574e733b563c",
+         "1.73"
+      ],
+      [
+         "fb3856659d73860283bae2fc731dc92a5ac6551b8ee8ebe2632f93dd3c341817",
+         "1.67"
+      ],
+      [
+         "1e60a762fd58284cd28ff90c0b0832ff3dc2b327dd35a340d31992954a03196f",
+         "1.55"
+      ],
+      [
+         "17f633efe93dc9a2df07a6d310c92502fc019fc98fa5251c5fff652421acbec5",
+         "1.55"
+      ],
+      [
+         "d350d6879a006876be8f6ff26cc5e094ead092260606c504ad4d94fabcb3fce6",
+         "1.31"
+      ],
+      [
+         "d10173d966d3e187d520cf72b29c4afed5bb633ffd3b22efe99f23d9bad0bc78",
+         "1.15"
+      ],
+      [
+         "9e8525b0b08376036115d4aacb3c43bf229b320836f6529783b5be52780d61d6",
+         "1.13"
+      ],
+      [
+         "eb36070d9a2f1dba07f802f22e69e6405cb2eb6accf27994ce7e3f62ff6e9e2a",
+         "0.91"
+      ],
+      [
+         "7ef3110eef91418cbc6d7ec06aa1cbe1eb3c7e92092420e94ee54d50421443ee",
+         "0.91"
+      ]
+   ],
+   "network": [
+      [
+         "80",
+         "60.00"
+      ],
+      [
+         "443",
+         "40.00"
+      ]
+   ],
+   "rank": 304,
+   "host_prev": "52.6",
+   "eps": "66.59",
+   "description": "calculator.exe is the 304th most commonly executed Windows program. It typically runs from the path C:\\Program Files\\WindowsApps\\Microsoft.WindowsCalculator_10.1804.911.0_x64__8wekyb3d8bbwe, and is most often launched by svchost.exe. It has been observed executing on 52.6% of computers in the wild.",
+   "intel": ""
+}

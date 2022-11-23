@@ -1,0 +1,61 @@
+{
+   "paths": [
+      [
+         "C:\\Windows\\System32",
+         "100.00"
+      ]
+   ],
+   "parents": [
+      [
+         "sdiagnhost.exe",
+         "85.00"
+      ],
+      [
+         "cmd.exe",
+         "15.00"
+      ]
+   ],
+   "children": [],
+   "grandparents": [
+      [
+         "svchost.exe",
+         "92.31"
+      ],
+      [
+         "explorer.exe",
+         "7.69"
+      ]
+   ],
+   "hashes": [
+      [
+         "e1057a20945bce8f00c0be5e3db40c4a98ab33f42f4d2df919aedb0ef6651d6e",
+         "43.59"
+      ],
+      [
+         "3375272da344cde1644afadc1f7fc880a00d7f2c48885776650a299e98f1dcd1",
+         "30.77"
+      ],
+      [
+         "7c2365b752f8d2708c737bc34260d5f3d1568fdd2e12892d3ca3e4952add0230",
+         "10.26"
+      ],
+      [
+         "1adecd9049ffd027f5b709866725a5ae1b22497dd89ee86b68698167cbd100d5",
+         "7.69"
+      ],
+      [
+         "03c7e317e277bbd6c9c1159f8718a9d302e6f78e0d80c09d52a994b7598c0f30",
+         "5.13"
+      ],
+      [
+         "eaae8536d554d0e86d8540a8b34db2649bd884843f389495d0b6e91636c6cf54",
+         "2.56"
+      ]
+   ],
+   "network": [],
+   "rank": 3245,
+   "host_prev": "2.9",
+   "eps": "29.62",
+   "description": "The BITS administration utility allows you to create jobs and monitor the progress of those jobs.",
+   "intel": ""
+}

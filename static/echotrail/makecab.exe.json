@@ -1,0 +1,142 @@
+{
+   "paths": [
+      [
+         "C:\\Windows\\System32",
+         "99.87"
+      ],
+      [
+         "C:\\Windows\\winsxs\\amd64_microsoft-windows-makecab_31bf3856ad364e35_6.1.7600.16385_none_4cc4738d82efdf85",
+         "0.06"
+      ],
+      [
+         "C:\\WINDOWS\\System32",
+         "0.06"
+      ],
+      [
+         "C:\\Windows\\SysWOW64",
+         "0.01"
+      ]
+   ],
+   "parents": [
+      [
+         "TiWorker.exe",
+         "94.67"
+      ],
+      [
+         "TrustedInstaller.exe",
+         "2.26"
+      ],
+      [
+         "upgrade.exe",
+         "1.52"
+      ],
+      [
+         "sdiagnhost.exe",
+         "1.49"
+      ],
+      [
+         "imagecat.exe",
+         "0.03"
+      ],
+      [
+         "cmd.exe",
+         "0.03"
+      ],
+      [
+         "powershell.exe",
+         "0.01"
+      ]
+   ],
+   "children": [
+      [
+         "conhost.exe",
+         "100.00"
+      ]
+   ],
+   "grandparents": [
+      [
+         "svchost.exe",
+         "95.82"
+      ],
+      [
+         "services.exe",
+         "4.03"
+      ],
+      [
+         "explorer.exe",
+         "0.09"
+      ],
+      [
+         "imgmgr.exe",
+         "0.06"
+      ]
+   ],
+   "hashes": [
+      [
+         "ba31ad8eca19c5fe03f6a5c64c8e0adfc7bd8d04b1f4e1c11d167467fd5261e9",
+         "23.00"
+      ],
+      [
+         "f9ebaa95c93aa8ce217a4ad8715ccf2b7a3fc7a951da44b78a9bb2c53b9bcace",
+         "18.66"
+      ],
+      [
+         "8fab793da23798edbcce3c3ca73e8b62587ed6fcba28b73076ade3f610580bc1",
+         "11.83"
+      ],
+      [
+         "925b31c2516090f291e78dbd285173a32f0d70bee5efabfa4e1145b9f8546563",
+         "11.72"
+      ],
+      [
+         "c55818c51e4a42dd2f9194ce754596a23f1ec3186092b1546b2409b1b3577c7e",
+         "11.42"
+      ],
+      [
+         "6992e53ab2d927d6131142e328ba5d6d985c2a7eb64dc5cea4d8980dcf03e768",
+         "10.69"
+      ],
+      [
+         "68b25a55eeafddc00e2b9aa52be0e7ab36cfc96f8c8de82ddf2ce888e557f08b",
+         "4.37"
+      ],
+      [
+         "10a7e57d7ca6c9c41b2bb4c32a892e5d79b23a46ebd9f5d9f7e8c683e7bbd3c5",
+         "3.17"
+      ],
+      [
+         "12d1e818c64d02f48c0a8a1094390329b8a65248e53e43d21ccf94e9a9701556",
+         "2.43"
+      ],
+      [
+         "5571b63274bae7e3fc6fb0838cd468d306c413f0dc96ebcaf829f42390c739f9",
+         "1.31"
+      ],
+      [
+         "d815194030cead4f59d9cd32163f1b5f41d06caf26ee4391bfea7463ab8b3fae",
+         "0.92"
+      ],
+      [
+         "84146980aba210fb46fa4c8436254abda1e3ed29efacbea06dea693086fba983",
+         "0.31"
+      ],
+      [
+         "9dcb63d6177c04302c098bcafda8fe5a0e1206b3bdc5b513c8ffbb1b03d49f58",
+         "0.12"
+      ],
+      [
+         "c194c06ce57874dbdcf0eba18af91c816827f77db19a42a9fc1e0bec81eb27c8",
+         "0.05"
+      ],
+      [
+         "5005b8869fc0cd1290908c7f21deb1bfdc722f5334c29c8b7903afac64a24f27",
+         "0.02"
+      ]
+   ],
+   "network": [],
+   "rank": 464,
+   "host_prev": "81.8",
+   "eps": "86.92",
+   "description": "Microsoft\u00ae Cabinet Maker",
+   "intel": ""
+}

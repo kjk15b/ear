@@ -1,0 +1,33 @@
+{
+   "paths": [
+      [
+         "C:\\Program Files\\Windows Sidebar",
+         "100.00"
+      ]
+   ],
+   "parents": [
+      [
+         "explorer.exe",
+         "100.00"
+      ]
+   ],
+   "children": [],
+   "grandparents": [
+      [
+         "userinit.exe",
+         "100.00"
+      ]
+   ],
+   "hashes": [
+      [
+         "76cb27ef7b27e5636eda9d95229519b2a2870729a0bb694f1fd11cd602bac4dc",
+         "100.00"
+      ]
+   ],
+   "network": [],
+   "rank": 2038,
+   "host_prev": "0.9",
+   "eps": "29.12",
+   "description": "sidebar.exe is the 2,038th most commonly executed Windows program. It typically runs from the path C:\\Program Files\\Windows Sidebar, and is most often launched by explorer.exe. It has been observed executing on 0.9% of computers in the wild.",
+   "intel": ""
+}

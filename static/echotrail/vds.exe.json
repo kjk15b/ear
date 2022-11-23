@@ -1,0 +1,122 @@
+{
+   "paths": [
+      [
+         "C:\\Windows\\System32",
+         "100.00"
+      ],
+      [
+         "C:\\WINDOWS\\System32",
+         "0.00"
+      ]
+   ],
+   "parents": [
+      [
+         "services.exe",
+         "100.00"
+      ]
+   ],
+   "children": [
+      [
+         "regsvr32.exe",
+         "100.00"
+      ]
+   ],
+   "grandparents": [
+      [
+         "wininit.exe",
+         "100.00"
+      ]
+   ],
+   "hashes": [
+      [
+         "0e8a90b2a228cee94dbd193e7c6775a64c8bbef70e318f2ece935b6ed5b26638",
+         "51.54"
+      ],
+      [
+         "e4e20d8737d281ea4bf811354450c0972e2b58877ca18db8ba682d646e882b9a",
+         "37.54"
+      ],
+      [
+         "63c07312adb6f8a8bde93361c30ac63dab4de1141af54630eef11e54b0bf983d",
+         "7.73"
+      ],
+      [
+         "09727093c5f7b258867c16d41f7f9835bf549cc339288bfe01a8f34ac7e93e23",
+         "1.87"
+      ],
+      [
+         "963bfd563b5a79f0ae81eb9708e85901a545545d4f25fcf37a17295ee9eda514",
+         "0.72"
+      ],
+      [
+         "9cecfc7977baa23a840f987a28813227bab3f2dfdf1d571b51327107b5aa8ce2",
+         "0.21"
+      ],
+      [
+         "dfb0f5c163b45f769be1f0dbf51254b67bfe191e37b049628a659381b445983a",
+         "0.11"
+      ],
+      [
+         "250173049a54473e149fd6f58d45665469b497f6c181925d5fc4ed15f019de55",
+         "0.09"
+      ],
+      [
+         "a8fb02e9e1b8ed5f2026534360c229da7fc11ba209de9c3222c65d0a9652fd3c",
+         "0.04"
+      ],
+      [
+         "d10944c16053504739af3f1f2620fa652b2191622e826199aa69f19467aa494d",
+         "0.03"
+      ],
+      [
+         "b82c26e767a8895cffd76c11d07d5c945c38e1bd32cc27d20a6c0fa7f6064fc5",
+         "0.02"
+      ],
+      [
+         "92c9381bdecb5c991f848a02af2f4189ce0119961fb37e57a37594a80704ddc5",
+         "0.02"
+      ],
+      [
+         "b19003a06b2737516482890d3c04e6ca493eadfcf57f4dc2cdec4d93fd8c939e",
+         "0.01"
+      ],
+      [
+         "a78decc46d696385e81139c435d17154dbc9345c53aee54d4c77558ab626e461",
+         "0.01"
+      ],
+      [
+         "8a0aa93f17fee2c816d57adb6b6be38d195d87a3cdcfbddb78e0af0d5452bc5e",
+         "0.01"
+      ],
+      [
+         "1a13a613ef6b67459031c7994ffc6f32f73e02e0f123a171618e4f011c635684",
+         "0.01"
+      ],
+      [
+         "f54ce101794900674a1791e570a71baefbaaef6f2fbdc1f6e36c718d4af8c05d",
+         "0.01"
+      ],
+      [
+         "ef94150470172883af44c7b3361a599f4d24db904287f7cc4e2fec30d781c2a8",
+         "0.01"
+      ],
+      [
+         "e69625aa34f6a002c612376ddb756ace161c23deac79a7811f862b1b8a670c78",
+         "0.01"
+      ],
+      [
+         "b955d0e5956a0cfc4154ea0c4d83f946a56193e40638a814c1c7d0c597be7c2a",
+         "0.00"
+      ],
+      [
+         "dce728cc358cc39c777c8b820d614ea10f833f3f576975d6acc186cf7fa1f04b",
+         "0.00"
+      ]
+   ],
+   "network": [],
+   "rank": 146,
+   "host_prev": "44.7",
+   "eps": "61.18",
+   "description": "Windows Virtual Disk Service.",
+   "intel": ""
+}
