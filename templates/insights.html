@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% block content %}
+<h1>List of Executables in Database</h1>
+<hr>
+<table>
+    <thead>
+        <tr>
+            <th>Executable</th>
+            <th>Ranking</th>
+            <th>Host Prevalence</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for cmd in cmds %}
+        <tr>
+            <td><a href="/insights/search/{{ cmd['name'] }}">{{ cmd['name'] }}</a></td>
+            <td>{{ cmd['rank'] }}</td>
+            <td>{{ cmd['host_prev'] }}%</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+{% endblock %}

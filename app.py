@@ -6,7 +6,6 @@ import re
 
 app = Flask(__name__)
 
-@app.route('/insights')
 @app.route('/')
 def echotrail_route():
     num_exes = len(os.listdir(os.path.join(os.getcwd(), 'static/echotrail/')))
@@ -38,6 +37,44 @@ def search_exe_api_route(exe : str):
             return "Try again later, API at limit for: {}".format(exe)
     except FileNotFoundError:
         return "Could not find: {}".format(exe)
+
+@app.route('/insights')
+def insights_route():
+    payload = []
+    files = os.listdir(os.path.join(os.getcwd(), 'static/echotrail/'))
+    for exe in files:
+        f = open(os.path.join(os.getcwd(), 'static/echotrail/', exe), 'r')
+        data = json.load(f)
+        name = re.sub('.json', '', exe)
+        if 'message' not in data.keys():
+            payload.append(
+                {
+                    'name' : name,
+                    'rank' : data['rank'],
+                    'host_prev' : data['host_prev']
+                }
+            )
+        f.close()
+    return render_template('insights.html', cmds=payload)
+
+@app.route('/api/insights')
+def insights_api_route():
+    payload = []
+    files = os.listdir(os.path.join(os.getcwd(), 'static/echotrail/'))
+    for exe in files:
+        f = open(os.path.join(os.getcwd(), 'static/echotrail/', exe), 'r')
+        data = json.load(f)
+        name = re.sub('.json', '', exe)
+        if 'message' not in data.keys():
+            payload.append(
+                {
+                    'name' : name,
+                    'rank' : data['rank'],
+                    'host_prev' : data['host_prev']
+                }
+            )
+        f.close()
+    return payload
 
 @app.route('/api/insights/query', methods=['POST'])
 def insights_query_api_route():
