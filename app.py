@@ -103,4 +103,4 @@ def insights_query_api_route():
 
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000, debug=True)
+    app.run(host='0.0.0.0', port=5555, debug=True)
